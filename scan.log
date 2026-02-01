@@ -1,0 +1,9 @@
+2026-02-01 21:53:59,333 - INFO - Open port found: 21
+2026-02-01 21:53:59,632 - INFO - Open port found: 80
+2026-02-01 21:53:59,660 - INFO - Open port found: 22
+2026-02-01 21:54:14,407 - CRITICAL - Fatal error: unsupported operand type(s) for -: 'str' and 'str'
+2026-02-01 22:08:59,369 - INFO - Open port found: 21
+2026-02-01 22:08:59,453 - INFO - Open port found: 22
+2026-02-01 22:08:59,479 - INFO - Open port found: 80
+2026-02-01 22:15:42,888 - INFO - Open port found: 135
+2026-02-01 22:15:49,034 - INFO - Open port found: 445
